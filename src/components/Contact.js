@@ -4,7 +4,8 @@ const Contact = () => {
   return (
     <section>
       <h1>Contact</h1>
-      <p>Provide your contact details here.</p>
+      <p>ongqiansiang@gmail.com</p>
+      <p>https://www.linkedin.com/in/qiansiangong/</p>
     </section>
   );
 };
